@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">THM-ToDo</string>
+    <string name="btn_add_todo">Add ToDo</string>
+    <string name="open_todos">Open Todos: %d</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
